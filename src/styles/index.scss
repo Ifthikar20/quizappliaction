@@ -1,0 +1,13 @@
+@import "./variables.scss";
+
+body{
+    font-family:monospace;
+    background: linear-gradient(0deg, $primary 0.3%, $accent);
+    color: $foreground;
+    justify-content: center;
+    display: flex;
+    margin: 0 auto;
+    padding: 0 30px;
+    height: 100vh ;
+}
+
