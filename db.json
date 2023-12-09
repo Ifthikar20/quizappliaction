@@ -1,0 +1,43 @@
+{"questions":[
+    {
+        "id": 303,
+        "question": "What is caching?, PLease elaborate.....again",
+        "option1": "A java script concept",
+        "option2": "some Java",
+        "option3": "Hashmap",
+        "option4": "to store data",
+        "rightAnswer": "to store data",
+        "category": "Java",
+        "difficultyLevel": "medium",
+        "options": [
+            {
+                "id": 5,
+                "option1": "apple",
+                "option2": "orange",
+                "option3": "orange",
+                "option4": "to store data"
+            }
+        ]
+    },
+    {
+        "id": 352,
+        "question": "NEWWWWWWWWWWWWWWWWWWWW",
+        "option1": "A java script concept",
+        "option2": "some Java",
+        "option3": "Hashmap",
+        "option4": "to store data",
+        "rightAnswer": "to store data",
+        "category": "Java",
+        "difficultyLevel": "medium",
+        "options": [
+            {
+                "id": 52,
+                "option1": "apple",
+                "option2": "blue berry",
+                "option3": "orange",
+                "option4": "to store data"
+            }
+        ]
+    }
+]
+}

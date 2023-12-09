@@ -9,7 +9,8 @@ export const jsQuizz={
                 "none of the above"
             ],
             type: "MCQs",
-            correctAnswer: "orange"
+            correctAnswer: "orange",
+            difficultyLevel: "easy"
         },
         {
             question:"what fruit is blue in color?",
@@ -20,7 +21,8 @@ export const jsQuizz={
                 "none of the above"
             ],
             type: "MCQs",
-            correctAnswer: "blue berry"
+            correctAnswer: "blue berry",
+            difficultyLevel: "easy"
         },
 
     ]
